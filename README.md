@@ -14,10 +14,11 @@ Data collected from [Quotes to Scrape](https://quotes.toscrape.com) using:
 Output: web_scraped_data.csv
 
 ### 3️ API Data
-Collected Bitcoin price from [Coindesk API](https://api.coindesk.com/v1/bpi/currentprice.json).
+Collected pokeman info from [Pokemon API](https://pokeapi.co/api/v2/pokemon).
 
 ##  Tools Used
 - Python  
 - Requests  
 - BeautifulSoup4  
 - Pandas  
+
