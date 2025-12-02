@@ -22,7 +22,7 @@ Collected pokeman info from [Pokemon API](https://pokeapi.co/api/v2/pokemon).
 - BeautifulSoup4  
 - Pandas
 
-- ### 4 IMDB Open DataSet 
+### 4 IMDB Open DataSet 
 I  am gathering data from the open IMDB dataset using the Hugging Face datasets library.  
 The data is converted into a CSV file and the first 5 rows are displayed.
 
@@ -34,3 +34,4 @@ The data is converted into a CSV file and the first 5 rows are displayed.
 ## Output
 - File: imdb_dataset.csv
 - Shows sample data from IMDB reviews
+
